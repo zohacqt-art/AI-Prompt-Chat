@@ -53,5 +53,5 @@ This project demonstrates the interaction between users and an AI model in a sim
 
 ---
 
-**Author:** Bunyamin Yavuz  
+**Author:** Zoha Zaydy  
 
